@@ -1,0 +1,13 @@
+{  
+  "name": "hermite-resize",
+  "version": "2.1.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/viliusle/Hermite-resize.git"
+  },
+  "author": "viliusle",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/viliusle/Hermite-resize/issues"
+  }
+}
